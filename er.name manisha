@@ -1,0 +1,179 @@
+[33mcommit d0545bec49eea9ed556be350cc95f3fb3867b054[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 22:52:45 2024 +0530
+
+    Changed the bg color of skeleton loader
+
+[33mcommit b6d13e4e5b2b4aaa9c4d812aa288787112dfd26c[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 22:50:45 2024 +0530
+
+    Removed the dark: of tailwind wherever used
+
+[33mcommit 7ce79a8307197934086a1dbbc325fd9487db6a9b[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 22:44:37 2024 +0530
+
+    Updated the favicon with logo.png in public
+
+[33mcommit 01d024d1dc64f44e061dbe66adf2af43e74d2627[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 22:31:48 2024 +0530
+
+    Added responsiveness in account page
+
+[33mcommit 9a6994fb73693e852410188c7b7dc6b21b09b318[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 22:27:51 2024 +0530
+
+    Fixed heading component
+
+[33mcommit ceb4a9f910afe2380dc00d2ec84c0ebf2622d78c[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Feb 29 21:38:13 2024 +0530
+
+    Responsiveness added, automatically scroll to top added and component file structure changed
+
+[33mcommit 52091213796cfea55cb0b2967e49024fb60c701e[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Wed Feb 28 23:38:23 2024 +0530
+
+    Responsiveness added in some sections
+
+[33mcommit c7103050324c27f7a3d0ac3c5a3fca45654e8c56[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Wed Feb 28 17:39:42 2024 +0530
+
+    Added the loader in Pay Now button in Order page
+
+[33mcommit bc24f440476431336d064541046255e2c19f7d72[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Wed Feb 28 16:28:41 2024 +0530
+
+    Empty state text are added if no data available in different sections
+
+[33mcommit 9588e413f8992199951446277f9a41eb97d642af[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Wed Feb 28 00:24:12 2024 +0530
+
+    Added the skeleton loader on user side
+
+[33mcommit 3983c1c710a543ef301ee9931149a202efbab54b[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Tue Feb 27 23:46:44 2024 +0530
+
+    Slight color change in the TableSkeleton.jsx
+
+[33mcommit 6e28591eb9831289b9e394278d0a40cebf615ab1[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Tue Feb 27 23:19:57 2024 +0530
+
+    Added the skeleton loader in seller dashboard and created the api for stock decrease when purchased by user
+
+[33mcommit 776d4972cfb87ec2cb76d2776e1384e0ea3bce9d[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Tue Feb 27 12:26:30 2024 +0530
+
+    Temporarily removed the OTP functionality because of some issues in hosted site
+
+[33mcommit aed8095181dbb51b0b5acb0410f151126bab4099[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:58:49 2024 +0530
+
+    Commented the Mailgen import also
+
+[33mcommit 152bf07258dc7f2f1568443bded78e83eece44ba[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:58:30 2024 +0530
+
+    Commented the Mailgen import also
+
+[33mcommit 71716ce26a9287f18e679ca03316d025874dea5e[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:50:32 2024 +0530
+
+    removed the mailgen code from the backend while sending mail
+
+[33mcommit a79bea65355112550e2ceb76158f78e0361b42d3[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:30:51 2024 +0530
+
+    Enabled Vercel Analytics
+
+[33mcommit dcbb72e6dd80aa8fd0d71f8147c33d478178722c[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:21:22 2024 +0530
+
+    Changed the color of the coordinates in seller dashboard
+
+[33mcommit 3684c581601e37278ce23bba1166c117c9996542[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 23:20:08 2024 +0530
+
+    Created the separate page for showing the full map when clicked on coordiates in seller dashboard
+
+[33mcommit d8c50a56a57673b559fe4b3a2a6ba0f9e1a43374[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 22:01:15 2024 +0530
+
+    Fixed the Add product and created the Edit product functionality in seller dashboard
+
+[33mcommit 415995bc2d37dd4cb917b9e2eb7913ab462f55f2[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 15:02:58 2024 +0530
+
+    Added the delivery charge functionality
+
+[33mcommit 03ffbc3cd4900d0a40deda16a8bcf7f1ede7f28b[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 00:11:51 2024 +0530
+
+    Added the hosted backend api
+
+[33mcommit 734b6f98290968b913cdb127d8965058ad2c84f0[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Mon Feb 26 00:00:11 2024 +0530
+
+    Added vercel.json in Backend
+
+[33mcommit db0b41e4c882476fa5f71267b9a346ab83f195a6[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Sun Feb 25 23:54:52 2024 +0530
+
+    Commiting uncommited changes
+
+[33mcommit 7072645031a65188e05db053cd62ae5473db5a82[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Dec 21 16:13:12 2023 +0530
+
+    Images are fixed in the home page
+
+[33mcommit 4ff8a87326ba5c061c8f8599e35b132af3f79864[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Dec 21 16:03:01 2023 +0530
+
+    User details added and unrelavant info removed form orders in Seller Dashboard
+
+[33mcommit 3b3d3a27e3af8c5ef363951f8e35b816713ff4ae[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Dec 21 15:40:09 2023 +0530
+
+    Little improvements in Backend and Frontend
+
+[33mcommit f4ef72ef0e70a542787d46cd739fcebc30b273e4[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Fri Dec 15 18:16:19 2023 +0530
+
+    Added Indexes in the Schema for efficient retrieving  and faqs functionality created in Backend
+
+[33mcommit a7577099540f9f55bc210d75e91618f468f7cbcb[m
+Author: DeepakS-Github <deepakanonymous75@gmail.com>
+Date:   Thu Dec 14 16:23:35 2023 +0530
+
+    CropConnect Project Started
+
+[33mcommit 632f38b5b6b5b9b030efc2ec6359b10d9968037e[m
+Author: Deepak <96366840+DeepakS-Github@users.noreply.github.com>
+Date:   Thu Dec 14 16:17:47 2023 +0530
+
+    Initial commit
